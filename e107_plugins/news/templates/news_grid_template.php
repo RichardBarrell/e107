@@ -78,7 +78,7 @@
                                  {NEWS_IMAGE: type=tag&class=card-img-top&placeholder=1}
                                 <div class="card-body p-4">
                                     <div class="badge bg-primary bg-gradient rounded-pill mb-2">{NEWS_CATEGORY_NAME}</div>
-                                    <a class="text-decoration-none link-dark stretched-link" href="{NEWS_URL}">
+                                    <a class="text-decoration-none stretched-link" href="{NEWS_URL}">
                                     <h5 class="card-title mb-3">{NEWS_TITLE}</h5></a>
                                     <p class="card-text mb-0">{NEWS_SUMMARY}</p>
                                 </div>
