@@ -117,7 +117,7 @@ if(!defined('e107_INIT'))
 				    echo '<div class="p-5"><div class="container text-center">';
 				        if(!empty($caption))
 				        {
-				          echo '<h1 class="display-4">'.$caption.'</h1>';
+				          echo '<h1 class="display-4 mt-4">'.$caption.'</h1>';
 				        }
 
 				    echo '<p class="lead">'.$this->remove_ptags($text).'</p>';
